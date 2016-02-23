@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./jogottliebheine00haubgoog_0040.png"; bbox 0 0 3130 5148; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 314 1440 1037 1530">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 314 1440 1037 1530">
+     <span class='ocr_line' id='line_1_1' title="bbox 314 1440 1037 1530; baseline 0.001 -19"><span class='ocrx_word' id='word_1_1' title='bbox 314 1517 320 1530; x_wconf 58' lang='grc'>,</span> <span class='ocrx_word' id='word_1_2' title='bbox 391 1440 669 1512; x_wconf 73' lang='lat' dir='ltr'>J0.G0&#39;1”rL.</span> <span class='ocrx_word' id='word_1_3' title='bbox 698 1441 945 1510; x_wconf 76' lang='lat' dir='ltr'><strong>HfflNEccu</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 969 1441 1037 1512; x_wconf 70' lang='lat' dir='ltr'>sc,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 125 1676 1379 1911">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 125 1676 1379 1911">
+     <span class='ocr_line' id='line_1_2' title="bbox 125 1676 1379 1911; baseline 0 -51"><span class='ocrx_word' id='word_1_5' title='bbox 125 1676 740 1911; x_wconf 73' lang='lat' dir='ltr'><strong>ANTIQUITATUM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 793 1755 1299 1860; x_wconf 79' lang='lat' dir='ltr'><strong>ROMANARUM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1374 1825 1379 1836; x_wconf 78' lang='grc'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 280 2109 1149 2176">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 280 2109 1149 2176">
+     <span class='ocr_line' id='line_1_3' title="bbox 280 2109 1149 2176; baseline 0.001 -1"><span class='ocrx_word' id='word_1_8' title='bbox 280 2110 731 2175; x_wconf 85' lang='lat' dir='ltr'><strong>JURISPRUDENTIAM</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 757 2109 1149 2176; x_wconf 86' lang='lat' dir='ltr'><strong>ILLUSTRANTIUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 529 2385 1061 2516">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 529 2385 1061 2516">
+     <span class='ocr_line' id='line_1_4' title="bbox 529 2385 1061 2516; baseline 0.002 0"><span class='ocrx_word' id='word_1_10' title='bbox 529 2419 907 2516; x_wconf 77' lang='lat' dir='ltr'><strong>sYNTAGMA</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1055 2385 1061 2393; x_wconf 84' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 210 2769 1214 2826">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 210 2769 1214 2826">
+     <span class='ocr_line' id='line_1_5' title="bbox 210 2769 1214 2826; baseline 0.001 -2"><span class='ocrx_word' id='word_1_12' title='bbox 210 2770 428 2825; x_wconf 80' lang='lat' dir='ltr'><strong>SECUNDUM</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 453 2769 633 2823; x_wconf 82' lang='lat' dir='ltr'>ORDINEM</span> <span class='ocrx_word' id='word_1_14' title='bbox 661 2770 967 2824; x_wconf 79' lang='lat' dir='ltr'>INSTITUTIONUM</span> <span class='ocrx_word' id='word_1_15' title='bbox 994 2771 1214 2826; x_wconf 76' lang='lat' dir='ltr'><strong>JUSTINIANI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1570 5148">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1570 5148">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1570 5148; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1570 5148; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
